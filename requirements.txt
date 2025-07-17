@@ -1,0 +1,7 @@
+flask
+pyotp
+hvac
+python-dotenv
+qrcode
+pyotp
+Pillow
